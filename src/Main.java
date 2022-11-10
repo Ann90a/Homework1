@@ -27,7 +27,7 @@ public class Main {
         //задача 4
 
         for (int i = 10; i > -10; i--){
-            System.out.println("От большего к меньшему " + i);
+            System.out.println("От большего к меньшему "  + i);
         }
 
 
